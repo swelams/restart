@@ -1,2 +1,3 @@
 hello from restart
 new line is added
+last line is added
